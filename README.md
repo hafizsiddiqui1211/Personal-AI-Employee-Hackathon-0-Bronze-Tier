@@ -1,5 +1,3 @@
----
-
 ```md
 # Personal AI Employee — Bronze Tier (Hackathon 0)
 
